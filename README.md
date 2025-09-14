@@ -28,4 +28,4 @@ The goal of this project is to gain insights into:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/HellencarenDereck01/Stock-analysis-comparison-between-Amazon-and-Google.git
-2.
+  
